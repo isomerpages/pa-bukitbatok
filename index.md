@@ -22,9 +22,6 @@ sections:
         - title: VOLUNTEER WITH US
           description: Page A is important too
           url: /privacy/
-        - title: Community Networks
-          description: What's in Our Hood
-          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
