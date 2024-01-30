@@ -22,9 +22,6 @@ sections:
         - title: VOLUNTEER WITH US
           description: Page A is important too
           url: /privacy/
-        - title: Contact Us
-          description: ""
-          url: https://go.gov.sg/feedback-bukitbatok
   - infobar:
       title: Infobar title
       subtitle: Subtitle
