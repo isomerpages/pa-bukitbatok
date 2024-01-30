@@ -24,7 +24,7 @@ sections:
           url: /privacy/
         - title: Contact Us
           description: ""
-          url: ""
+          url: https://go.gov.sg/feedback-bukitbatok
   - infobar:
       title: Infobar title
       subtitle: Subtitle
