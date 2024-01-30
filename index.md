@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Bukit Batok, Our Home
       subtitle: A Great Home &  A Caring Community
-      background: /images/BB_Sun.jpg
+      background: /images/BB_Sun__2_.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
