@@ -14,18 +14,11 @@ locations:
         description: (Closed on Public Holidays)
     maps_link: ""
     title: Temporary CC Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6564 7061
+      - email: pa_bukitbatokcc@pa.gov.sg
+      - other: ""
+    title: General Enquiries
 feedback: ""
 ---
