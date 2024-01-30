@@ -12,7 +12,7 @@ locations:
       - days: Mon - Sun
         time: 10am - 6pm
         description: (Closed on Public Holidays)
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/KiqhKWdxVGyzkhXg7
     title: Temporary CC Office
 contacts:
   - content:
