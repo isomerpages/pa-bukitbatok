@@ -1,4 +1,4 @@
-title: Title
+title: Bukit Batok Our Home
 url: https://www.bukitbatok.pa.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: The official of Bukit Batok, Our Home
 permalink: none
 baseurl: ""
 exclude:
