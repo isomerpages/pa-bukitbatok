@@ -13,8 +13,8 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: About Us
-          description: Important highlight A is important
+        - title: OUR COMMUNITY
+          description: OUR PEOPLE
           url: https://google.com
         - title: PROGRAMMES & ACTIVITIES
           description: Important highlight B is equally important
