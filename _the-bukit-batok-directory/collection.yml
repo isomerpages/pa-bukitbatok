@@ -1,4 +1,5 @@
 collections:
   the-bukit-batok-directory:
     output: true
-    order: []
+    order:
+      - The BB Directory.md
