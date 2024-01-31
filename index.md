@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Bukit Batok Our Home
-description: The official of Bukit Batok, Our Home
+description: The official website of Bukit Batok, Our Home
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
