@@ -56,7 +56,7 @@ promoting values such as respect, responsibility, and resilience.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Princess Elizabeth Primary School </strong>
+<p><strong>Princess Elizabeth Primary School</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -108,23 +108,7 @@ are not only academically competent but also socially responsible individuals.</
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-<ol>
-<li>
-<p><strong>Secondary Schools:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bukit Batok Secondary School</p>
-</li>
-<li>
-<p>Hillgrove Secondary School</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Junior Colleges:</strong>
+<p><strong>Junior College:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -132,5 +116,5 @@ are not only academically competent but also socially responsible individuals.</
 </li>
 </ul>
 </li>
-</ol>
+</ul>
 <p></p>
