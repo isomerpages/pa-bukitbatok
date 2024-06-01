@@ -2,6 +2,6 @@ collections:
   bukit-batok-gros:
     output: true
     order:
-      - Bukit Batok CCMC.md
-      - Bukit Batok CCC CDWF.md
       - Bukit Batok CCC.md
+      - Bukit Batok CCC CDWF.md
+      - Bukit Batok CCMC.md
