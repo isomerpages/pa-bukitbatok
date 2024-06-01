@@ -2,6 +2,7 @@ collections:
   bukit-batok-gros:
     output: true
     order:
+      - Bukit Batok Zone 11 RN.md
       - Bukit Batok Zone 10 RN.md
       - Bukit Batok Zone 9 RN.md
       - Bukit Batok Zone 8 RN.md
