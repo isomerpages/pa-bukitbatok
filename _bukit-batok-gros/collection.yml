@@ -1,4 +1,5 @@
 collections:
   bukit-batok-gros:
     output: true
-    order: []
+    order:
+      - Bukit Batok CCC.md
