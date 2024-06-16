@@ -20,20 +20,15 @@ sections:
         - title: VOLUNTEER WITH US
           description: Find out more
           url: ""
-  - textcards:
+  - infocols:
       title: Featured Programmes
-      id: textcards
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+      id: infocols
+      linktext: View More
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
