@@ -2,6 +2,7 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
+      - SCC/Educational Institutions.md
       - SCC/Preschools.md
       - SCC/.keep
       - BB Directory.md
