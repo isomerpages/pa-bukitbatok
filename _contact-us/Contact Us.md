@@ -4,7 +4,7 @@ permalink: /contact-us/
 variant: tiptap
 description: ""
 ---
-<p>Follow Bukit Batok CC on Social Media</p>
+<h3>Follow Bukit Batok CC on Social Media</h3>
 <p>Follow us on <a href="https://www.facebook.com/bukitbatok" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/bukitbatok_ourhome/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&amp; <a href="https://t.me/s/bbourhome" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>!</p>
 <hr>
