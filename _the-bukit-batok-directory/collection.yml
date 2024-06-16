@@ -2,7 +2,6 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
-      - Our Bukit Batok Directory.md
       - Educational Institutes/.keep
       - Educational Institutes/Preschools.md
       - Educational Institutes/Primary Schools.md
