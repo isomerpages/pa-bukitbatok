@@ -2,8 +2,6 @@ logo: /images/bukitbatok3_Pantone361__002_.gif
 links:
   - title: Our Bukit Batok CC
     url: /example-page/
-  - title: Contact Us
-    url: /contact-us/
   - title: Social media
     url: /permalink
     sublinks:
@@ -13,3 +11,10 @@ links:
         url: https://www.instagram.com/bukitbatok_ourhome/
       - title: Telegram
         url: https://t.me/s/bbourhome
+  - title: Contact Us
+    url: /contact-us/
+  - title: Contact Us
+    url: /permalink
+    sublinks:
+      - title: onePA | Bukit Batok CC
+        url: https://www.onepa.gov.sg/cc/bukit-batok-cc
