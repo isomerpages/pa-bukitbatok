@@ -4,14 +4,12 @@ title: Bukit Batok Our Home
 description: The official website of Bukit Batok, Our Home
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please note that our website is under maintenance. We will be back shortly!
 sections:
   - hero:
       title: Bukit Batok, Our Home
       subtitle: A Great Home &  A Caring Community
       background: /images/BB_Sun__3_.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: OUR COMMUNITY
           description: OUR PEOPLE
