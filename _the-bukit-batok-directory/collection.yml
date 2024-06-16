@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Medical Clinics.md
+      - Educational Institutes/Primary Schools.md
       - Educational Institutes/.keep
       - Educational Institutes/Preschools.md
       - Educational Institutes/Student Care Centres.md
