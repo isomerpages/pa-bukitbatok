@@ -2,7 +2,7 @@ collections:
   bukit-batok-people:
     output: true
     order:
-      - "West Winds/WW: About Us.md"
+      - "West Winds/West Winds: About Us.md"
       - West Winds/.keep
       - Interest Groups/.keep
       - Bukit Batok GROs/.keep
