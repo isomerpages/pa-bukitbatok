@@ -57,10 +57,8 @@ PM TO 5:00 PM]</p>
 </p>
 <p></p>
 <p></p>
-<p><strong>Find us on </strong><a href="https://www.facebook.com/bukitbatokzone11" rel="noopener noreferrer nofollow" target="_blank">Facebook</a><strong> !</strong>
-</p>
-<p></p>
+<h3><strong>Find us on </strong><a href="https://www.facebook.com/bukitbatokzone11" rel="noopener noreferrer nofollow" target="_blank">Facebook</a><strong> !</strong></h3>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbukitbatokzone11%2Fposts%2Fpfbid0hfDpLEwdFZ4TvahL5zsqa5HryexQLa4cFdZfXfaiDqiTo9gHJ26Kyt32tEiZe9tNl&amp;show_text=true&amp;width=500"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbukitbatokzone11%2Fposts%2Fpfbid0hfDpLEwdFZ4TvahL5zsqa5HryexQLa4cFdZfXfaiDqiTo9gHJ26Kyt32tEiZe9tNl&amp;show_text=true&amp;width=800"></iframe>
 </div>
 <p></p>
