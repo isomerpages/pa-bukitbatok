@@ -4,7 +4,9 @@ links:
     url: /example-page/
   - title: About us
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Bukit Batok GROs
+        url: /permalink
   - title: Social media
     url: /permalink
     sublinks:
