@@ -22,7 +22,7 @@ through programmes to build a vibrant and cohesive community</p>
 </p>
 <p><strong>Tel:</strong>  <a href="tel:65646317" rel="noopener noreferrer nofollow" target="_blank">65646317</a>
 </p>
-<p><strong>Connect With Us: </strong>
+<p><strong>Connect With Us:</strong>
 </p>
 <p></p>
 <p></p>
@@ -49,4 +49,18 @@ PM TO 5:00 PM]</p>
 <p><strong>No data available/configured</strong>
 </p>
 <h3><strong>Book Our Facilities</strong></h3>
+<p><strong>Booking of BBQ Pits</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>Booking of Function Room</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>Find us on </strong><a href="https://www.facebook.com/bukitbatokzone11" rel="noopener noreferrer nofollow" target="_blank">Facebook</a><strong> !</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbukitbatokzone11%2Fposts%2Fpfbid0hfDpLEwdFZ4TvahL5zsqa5HryexQLa4cFdZfXfaiDqiTo9gHJ26Kyt32tEiZe9tNl&amp;show_text=true&amp;width=500"></iframe>
+</div>
 <p></p>
