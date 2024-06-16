@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Educational Institutes
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Schools:</strong>
-</p>
+<h2><strong>Secondary Schools:</strong></h2>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Bukit View Secondary School</strong>
@@ -22,6 +20,9 @@ programs to cater to the varied interests and talents of its student body.</p>
 </li>
 </ul>
 </li>
+</ul>
+<hr>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Bukit View Secondary School</strong>
 </p>
@@ -34,8 +35,6 @@ programs, aiming to provide a well-rounded education that prepares students
 for future challenges. With a focus on character development and values-based
 education, Bukit View Secondary School strives to nurture students who
 are not only academically competent but also socially responsible individuals.</p>
-</li>
-</ul>
 </li>
 </ul>
 </li>
