@@ -12,14 +12,14 @@ sections:
       background: /images/BB_Sun__3_.jpg
       key_highlights:
         - title: OUR COMMUNITY
-          description: OUR PEOPLE
-          url: https://google.com
+          description: Our People
+          url: ""
         - title: PROGRAMMES & ACTIVITIES
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: Latest Happenings
+          url: ""
         - title: VOLUNTEER WITH US
-          description: Page A is important too
-          url: /privacy/
+          description: Find out more
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
