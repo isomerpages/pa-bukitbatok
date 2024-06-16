@@ -2,6 +2,7 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
+      - Our BB Directory.md
       - Medical Clinics.md
       - Educational Institutes/.keep
       - Educational Institutes/Preschools.md
