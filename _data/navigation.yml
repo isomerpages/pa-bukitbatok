@@ -7,7 +7,14 @@ links:
     sublinks:
       - title: Bukit Batok GROs
         url: /permalink
+      - title: The Bukit Batok Directory
+        url: /permalink
       - title: Volunteer
+        url: /permalink
+  - title: Programmes
+    url: /permalink
+    sublinks:
+      - title: Local Assistance Scheme
         url: /permalink
   - title: Social media
     url: /permalink
