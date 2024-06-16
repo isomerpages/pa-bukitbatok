@@ -3,7 +3,7 @@ links:
   - title: Our Bukit batok cc
     url: /example-page/
   - title: About us
-    url: /permalink
+    url: https://cms.isomer.gov.sg/sites/pa-bukitbatok/folders/bukit-batok-gros
     sublinks:
       - title: Bukit Batok GROs
         url: /permalink
