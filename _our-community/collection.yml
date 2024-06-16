@@ -1,5 +1,5 @@
 collections:
-  bukit-batok-people:
+  our-community:
     output: true
     order:
       - Our Community, Our People.md
