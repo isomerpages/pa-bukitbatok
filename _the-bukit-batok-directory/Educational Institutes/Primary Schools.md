@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Educational Institutes
 ---
 <h2><strong>Primary Schools:</strong></h2>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Bukit View Primary School</strong>
@@ -26,8 +27,10 @@ its students.</p>
 </p>
 </li>
 </ul>
-<p></p>
 </li>
+</ul>
+<hr>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Keming Primary School</strong>
 </p>
@@ -46,9 +49,9 @@ promoting values such as respect, responsibility, and resilience.</p>
 </p>
 </li>
 </ul>
-<p></p>
 </li>
 </ul>
+<hr>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Princess Elizabeth Primary School</strong>
