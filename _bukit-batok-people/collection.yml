@@ -1,5 +1,5 @@
 collections:
-  bukit-batok-gros:
+  bukit-batok-people:
     output: true
     order:
       - Bukit Batok GROs/.keep
