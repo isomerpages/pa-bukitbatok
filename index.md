@@ -21,9 +21,5 @@ sections:
           description: Find out more
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Featured Updates
 ---
