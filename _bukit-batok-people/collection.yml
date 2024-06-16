@@ -2,6 +2,7 @@ collections:
   bukit-batok-people:
     output: true
     order:
+      - Interest Groups/.keep
       - Bukit Batok GROs/.keep
       - Bukit Batok GROs/Bukit Batok CCC.md
       - Bukit Batok GROs/Bukit Batok CCC CDWF.md
