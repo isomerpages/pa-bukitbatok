@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Bukit Batok CCC/.keep
-      - Bukit Batok GROs.md
       - Bukit Batok CCC.md
       - Bukit Batok CCC CDWF.md
       - Bukit Batok CCMC.md
