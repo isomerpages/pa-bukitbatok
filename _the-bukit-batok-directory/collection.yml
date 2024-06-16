@@ -2,10 +2,10 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
-      - Educational Institutes/Junior College.md
       - Educational Institutes/.keep
       - Educational Institutes/Preschools.md
       - Educational Institutes/Primary Schools.md
       - Educational Institutes/Secondary Schools.md
+      - Educational Institutes/Junior College.md
       - Educational Institutes/Student Care Centres.md
       - Medical Clinics.md
