@@ -2,7 +2,6 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
-      - Medical Clinics/.keep
       - Educational Institutes/Educational Institutions.md
       - Educational Institutes/Preschools.md
       - Educational Institutes/.keep
