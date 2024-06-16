@@ -7,9 +7,9 @@ third_nav_title: West Winds
 ---
 <h1><strong>About Us</strong></h1>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p3LVnl-AkLE?si=9pYy5ZGWM4b1ED8o"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p3LVnl-AkLE"></iframe>
 </div>
-<h2>West Winds</h2>
+<h1>West Winds</h1>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
