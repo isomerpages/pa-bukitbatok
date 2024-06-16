@@ -2,5 +2,6 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
+      - Preschools.md
       - example-page.md
       - Educational Institutions.md
