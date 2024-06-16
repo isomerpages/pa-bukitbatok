@@ -3,10 +3,10 @@ links:
   - title: Our Bukit Batok CC
     url: /example-page/
   - title: About us
-    url: https://www.bukitbatok.pa.gov.sg/bukit-batok-grassroots-organisations/
+    url: /bukit-batok-grassroots-organisations/
     sublinks:
       - title: Bukit Batok GROs
-        url: https://www.bukitbatok.pa.gov.sg/bukit-batok-gros
+        url: /bukit-batok-grassroots-organisations/
       - title: The Bukit Batok Directory
         url: /permalink
       - title: Volunteer
