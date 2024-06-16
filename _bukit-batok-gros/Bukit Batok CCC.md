@@ -4,7 +4,7 @@ permalink: /bukit-batok-ccc/
 variant: tiptap
 description: ""
 ---
-<h4>Bukit Batok Citizens’ Consultative Committees (CCC) </h4>
+<h4>Bukit Batok Citizens’ Consultative Committees (CCC)</h4>
 <p></p>
 <p>The Bukit Batok Citizens’ Consultative Committees (CCC) serves as a crucial
 link between the community and the Government. The CCC is responsible for
