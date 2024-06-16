@@ -1,7 +1,10 @@
 logo: /images/bukitbatok3_Pantone361__002_.gif
 links:
-  - title: Our Bukit Batok CC
+  - title: Our Bukit batok cc
     url: /example-page/
+  - title: About us
+    url: /permalink
+    sublinks: []
   - title: Social media
     url: /permalink
     sublinks:
