@@ -4,7 +4,7 @@ permalink: /ourcommunity/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h1>Our Community, Our People</h1>
 <p>[group photo]</p>
 <p></p>
 <p>short summary about bukit batok gro</p>
