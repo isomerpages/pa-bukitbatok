@@ -1,4 +1,4 @@
-title: Bukit Batok Our Home
+title: Bukit Batok, Our Home
 url: https://www.bukitbatok.pa.gov.sg
 favicon: /images/bukitbatok3_Pantone361__002_.gif
 colors:
@@ -53,7 +53,7 @@ staging: https://staging.d2pwmqkxh9490i.amplifyapp.com
 prod: https://master.d2pwmqkxh9490i.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: test
