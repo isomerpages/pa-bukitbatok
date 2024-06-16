@@ -2,9 +2,7 @@ collections:
   bukit-batok-people:
     output: true
     order:
-      - "West Winds/West Winds: About Us.md"
-      - West Winds/.keep
-      - Interest Groups/.keep
+      - Our Community, Our People.md
       - Bukit Batok GROs/.keep
       - Bukit Batok GROs/Bukit Batok CCC.md
       - Bukit Batok GROs/Bukit Batok CCC CDWF.md
@@ -18,7 +16,6 @@ collections:
       - Bukit Batok GROs/Bukit Batok C2E.md
       - Bukit Batok GROs/Bukit Batok CSN.md
       - Bukit Batok GROs/Bukit Batok Youth Network.md
-      - Our Community, Our People.md
       - Bukit Batok RNs/.keep
       - Bukit Batok RNs/Bukit Batok Zone 1 RN.md
       - Bukit Batok RNs/Bukit Batok Zone 2 RN.md
@@ -32,3 +29,6 @@ collections:
       - Bukit Batok RNs/Bukit Batok Zone 10 RN.md
       - Bukit Batok RNs/Bukit Batok Zone 11 RN.md
       - Bukit Batok RNs/Bukit Batok Zone 12 RN.md
+      - West Winds/.keep
+      - "West Winds/West Winds: About Us.md"
+      - Interest Groups/.keep
