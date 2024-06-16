@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: OUR COMMUNITY
           description: Our People
-          url: ""
+          url: https://www.bukitbatok.pa.gov.sg/bukit-batok-grassroots-organisations/
         - title: PROGRAMMES & ACTIVITIES
           description: Latest Happenings
           url: ""
