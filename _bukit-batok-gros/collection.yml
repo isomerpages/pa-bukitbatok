@@ -2,19 +2,19 @@ collections:
   bukit-batok-gros:
     output: true
     order:
-      - Bukit Batok RNs/Bukit Batok Zone 12 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 11 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 10 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 9 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 8 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 7 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 6 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 5 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 4 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 3 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 2 RN.md
-      - Bukit Batok RNs/Bukit Batok Zone 1 RN.md
       - Bukit Batok RNs/.keep
+      - Bukit Batok RNs/Bukit Batok Zone 1 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 2 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 3 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 4 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 5 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 6 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 7 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 8 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 9 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 10 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 11 RN.md
+      - Bukit Batok RNs/Bukit Batok Zone 12 RN.md
       - Bukit Batok CCC.md
       - Bukit Batok CCC CDWF.md
       - Bukit Batok CCMC.md
