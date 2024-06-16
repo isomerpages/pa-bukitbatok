@@ -2,6 +2,7 @@ collections:
   bukit-batok-gros:
     output: true
     order:
+      - Bukit Batok GROs/.keep
       - Bukit Batok Grassroots Organisations.md
       - Bukit Batok RNs/.keep
       - Bukit Batok RNs/Bukit Batok Zone 1 RN.md
