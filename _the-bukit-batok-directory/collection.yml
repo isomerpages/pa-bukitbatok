@@ -2,6 +2,7 @@ collections:
   the-bukit-batok-directory:
     output: true
     order:
+      - BB Directory.md
       - Preschools.md
       - example-page.md
       - Educational Institutions.md
