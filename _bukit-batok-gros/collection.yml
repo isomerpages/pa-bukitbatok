@@ -2,6 +2,7 @@ collections:
   bukit-batok-gros:
     output: true
     order:
+      - Bukit Batok GROs/Bukit Batok Youth Network.md
       - Bukit Batok GROs/Bukit Batok CACC.md
       - Bukit Batok GROs/Bukit Batok CSN.md
       - Bukit Batok GROs/Bukit Batok C2E.md
