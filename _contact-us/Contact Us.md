@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>Follow Bukit Batok CC on Social Media</h3>
 <p>Follow us on <a href="https://www.facebook.com/bukitbatok" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
-<a href="https://www.instagram.com/bukitbatok_ourhome" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&amp; <a href="https://t.me/s/bbourhome" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>!</p>
+<a href="https://www.instagram.com/bukitbatok_ourhome" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>and <a href="https://t.me/bbourhome" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>!</p>
 <hr>
 <h3>Bukit Batok Community Club (Temporary CC)</h3>
 <p><strong>Address</strong>: Blk 119, #01-256, Bukit Batok West Ave 6, Singapore
